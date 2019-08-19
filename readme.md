@@ -7,4 +7,4 @@ building steps:
 - for build run expo build:android
 
 repo : https://github.com/mhezzet/flickr-test-proposal.git  
-buit : https://expo.io/artifacts/d636efd6-d22f-4c4e-b140-325f61e450b1
+built : https://expo.io/artifacts/d636efd6-d22f-4c4e-b140-325f61e450b1
